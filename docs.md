@@ -2,4 +2,4 @@ This is a sample text to practice some git commands. Also it will help to practi
 
 Note that we will use a few commands to make it available on the GitHub.
 
-Adding the third sentence to make a change.
+Adding the third sentence to make a change to pracice conflict resolving.
