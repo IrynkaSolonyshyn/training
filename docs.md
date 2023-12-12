@@ -1,4 +1,4 @@
-This is a sample text to practice some git commands. 
+This is a sample text to practice some git commands. Also it will help to practice merging and resolving conflicts.
 
 Note that we will use a few commands to make it available on the GitHub.
 
